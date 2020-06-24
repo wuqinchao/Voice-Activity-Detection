@@ -1,0 +1,7 @@
+LIBRARY "AiRecording.Vad.dll"
+
+EXPORTS
+
+WebrtcOpen
+WebrtcDetection
+WebrtcClose
